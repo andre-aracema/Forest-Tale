@@ -45,4 +45,5 @@ Este projeto foi realizado com fins acadêmicos, como parte da disciplina de Pro
 
 ## Autor
 André Akira A Abe Aracema <br>
-Estudante de Ciência da Computação - UFPR
+Estudante de Ciência da Computação - UFPR <br>
+Data: 20/06/2025
