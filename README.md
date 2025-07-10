@@ -21,9 +21,9 @@ Este projeto foi realizado com fins acadêmicos, como parte da disciplina de Pro
 1. Linguagem C e a biblioteca Allegro 5 estarem instaladas e configuradas em seu sistema.
 2. Clone ou copia do projeto no seu computador.
 3. Compile o programa com o comando:
-  ```bash
-  make
-  ```
+    ```bash
+    make
+    ```
 4. Execute o jogo com:
    ```bash
    ./jogo
