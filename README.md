@@ -44,5 +44,5 @@ Este projeto foi realizado com fins acadêmicos, como parte da disciplina de Pro
 - Inclusão de fases adicionais
 
 ## Autor
-André Akira A Abe Aracema
+André Akira A Abe Aracema <br>
 Estudante de Ciência da Computação - UFPR
